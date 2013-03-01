@@ -1,4 +1,4 @@
 ConsoleColorizer
 ================
 
-Simple C++ application to add ANSII color tags to consloe output.
+Adds color to console input for ease of analyzing it.
