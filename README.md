@@ -1,4 +1,4 @@
 ConsoleColorizer
 ================
 
-Adds color to console input for ease of analyzing it.
+Adds color to console output for ease of analyzing it.
